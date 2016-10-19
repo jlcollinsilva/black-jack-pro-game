@@ -1,0 +1,10 @@
+#:C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackLib\BlackJackLib.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackLib\BlackJackLib.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\CardLibrary\CardLibrary.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackLib\BlackJackLib.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\PlayerLibrary\PlayerLibrary.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\PlayerLibrary\PlayerLibrary.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\CardLibrary\CardLibrary.xproj
+#:C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackPro\BlackJackPro.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackPro\BlackJackPro.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackLib\BlackJackLib.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackPro\BlackJackPro.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\PlayerLibrary\PlayerLibrary.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackLib\BlackJackLib.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\CardLibrary\CardLibrary.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\BlackJackLib\BlackJackLib.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\PlayerLibrary\PlayerLibrary.xproj
+C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\PlayerLibrary\PlayerLibrary.xproj|C:\Users\JoseL\Documents\BackendApp\BlackJackPro\src\CardLibrary\CardLibrary.xproj
